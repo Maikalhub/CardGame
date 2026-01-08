@@ -1,5 +1,5 @@
 # CardGame
-CardGame – Game Project
+CardGame – C# Game Project
 
 ## Project Info
 
