@@ -40,7 +40,15 @@ Make sure to open the project in this exact version (or a compatible one) to avo
 This project includes **free assets** whose licenses allow full commercial and non-commercial use.  
 All assets were sourced from open and legally permitted libraries.
 
+## Examples 🎮✨
+
+| Type | Preview | Description |
+|------|--------|-------------|
+| 🎥 Video | https://github.com/user-attachments/assets/9435a013-6bec-44f9-9689-854cfb2dc529 | Gameplay example |
+| 🖼️ Image | *(Add image here)* | UI |
+
 ---
+
 
 ### *💬 Feedback is welcome! If you have suggestions or ideas, feel free to share them — it helps improve the project.*
 
